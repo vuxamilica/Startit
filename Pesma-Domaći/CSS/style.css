@@ -1,0 +1,19 @@
+p {font-family: Comic Sans MS, serif;
+    font-size: 18px;
+   font-weight: 100;}
+
+#prva {color: #0A0A0A;
+}
+#druga {color:  #C82536;
+}
+#naslov {color: #BC8F8F}
+body {
+    
+    background-image: url("http://www.petsmart.com/on/demandware.static/Sites-PetSmart-Site/-/en_US/onlineopinionV5/dog-left.png");
+    background-repeat: no-repeat;
+    background-color:  #E8C782;
+    background-position: right;
+
+}
+span:hover { color: #7A378B}
+#crna:hover { color: #EE9A00 }
