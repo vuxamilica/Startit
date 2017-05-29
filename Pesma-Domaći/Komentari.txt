@@ -1,0 +1,14 @@
+-- doctype
+-- strong unutar spana
+-- utf-8
+
+Pozdrav,
+
+Ok uradjen zadatak, uz par sitnih, vise sugestija nego gresaka,
+1) DOCTYPE je naziv taga
+2) koristite <strong> tag unutar <span> taga, sto nije pogresno, ali nema velike svrhe,jer ste mogli u css-u da odredjenom <span> tagu postavite font-weight:bold svojstvo
+3) postavite u meta tagu charset na utf-8 kako bi vam latinicna slova bila vidjiva
+4) Mala sugestija na stil pisanja koda kako bi vam kod bio citljiviji, oko uvlacenja i sl
+
+Pozdrav
+Damjan
