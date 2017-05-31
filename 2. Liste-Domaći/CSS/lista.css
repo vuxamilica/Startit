@@ -27,4 +27,7 @@ li {
 	margin: 10px;
 	text-align: center;
 }
+a:hover {
+	color: #ff6eb4;
+}
 
