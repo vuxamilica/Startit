@@ -1,0 +1,76 @@
+body {
+	background-color: #e0e0ee;
+	background-repeat: no-repeat;
+
+}
+
+
+#slika {
+
+	width: 50%;
+	height:175px;
+}
+
+form{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+
+
+
+nav {
+	font-family: Georgia, "Times New Roman", serif;
+}
+.navig {
+	position: relative;
+	list-style: none;
+	margin-top: 1px;
+	margin-left:250px;
+}
+.navig li {
+	display: inline-block;
+	margin: 10px;
+}
+li {
+	text-align: center;
+}
+a:hover {
+	color: #6e7b8b;
+}
+.text {
+	background-color: #e0e0ee;
+	width: 50%;
+	float: left;
+	margin-right: 20px;
+	
+
+}
+
+h1, p {
+
+	text-align: left;
+}
+img {
+    width:643px; 
+    height: 715px;
+
+  
+}
+#dostava {
+
+	margin-top: 50px;
+}
+	
+table, td {
+border: 1px solid #cdc9a5;
+
+}
+
+table{
+
+    
+	width:80%;
+	margin-left: 10%;
+}
+
