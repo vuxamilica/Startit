@@ -173,6 +173,7 @@ padding-bottom: 18px;
 	height: auto;
 	margin-left: 22px;
 	margin-right: 0px;
+	float: left;
 
 	
 }
@@ -214,13 +215,14 @@ float: left;
 	margin-right: 22px;
 	margin-left: 600px;
 	margin-top: -246px;
+	float: right;
 }
 
 .vest3 {
 	position: relative;
     display: inline-block;
     margin-left: -20%;
-    float: left;
+    float: right;
 }
 .vest3img{
 	float: left;
