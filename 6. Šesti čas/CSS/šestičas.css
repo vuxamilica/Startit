@@ -1,0 +1,266 @@
+body {
+	height: 100%;
+	margin: 0%;
+}
+
+
+.glavni {
+	position: relative;
+	background-color: #f5f4f2;
+	height: 2000px;
+	width: 100%;
+	margin: 0%;
+    
+
+
+}
+nav {
+	padding: 5px;
+}
+
+#A {
+	float: right;
+	margin-left: 20px;
+	margin-right: 200px;
+}
+
+
+#B {
+	float: right;
+	margin-left: 20px;
+
+
+}
+#C {
+	float: right;
+
+}
+
+
+.belidiv{
+	position: relative;
+	width: 73%;
+	height: 1800px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:20px;
+    box-shadow: 0px 0px 55px #b8ac9e;
+
+}
+#pretraga {
+	float: right;
+	margin-top: 33px;
+	margin-right: 15px;
+}
+a {
+	text-decoration: none;
+	font-family: Verdana;
+}
+
+.lista li a {
+	color: white;
+	font-size: 21px;
+	font-weight: bold;
+	
+
+	
+}	
+
+
+li {
+	display: inline-block;
+    font-weight: 900;
+    font-size: 150%;
+    margin-left: -20px;
+    margin-top: 15px;
+}
+
+
+.plavidiv {
+
+	width: 95.5%;
+    height: 90px;
+    margin:0 20px;
+    background-color: #0098ff;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#lista1 {
+	margin-right: 35px;
+	}
+
+#lista2 {
+	margin-right: 35px;
+
+}
+.plavidiv hr {
+	width: 897px;
+	
+    color:white;
+
+}
+
+#rub {
+	color: #8f867b;
+	margin-left: 55px;
+	font-size: 11px;
+
+}
+
+#rubrike {
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left: -18px;
+}
+
+.rub {
+	font-size: 11px;
+	color: #00008B;
+}
+
+.vest1 {
+	position: relative;
+	height: 411px;
+	width: 95%
+	margin-left:auto;
+	margin-right: auto;
+	margin: 0 22px;
+
+}
+.vest1 img {
+	width: 100%;
+	height: 100%;
+}
+
+
+.text1 {
+	position: relative;
+	background-color: rgba(0,0,0,0.6);
+	margin-bottom: 0px;
+	margin-top: -155px;
+    color: white;
+    
+}
+
+.text1 h3{
+margin-left: 15px;
+margin-top: 4px;
+padding-top: 15px;
+}
+.text1 h1{
+margin-left: 15px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+#vest1 {
+margin-left: 15px;
+margin-top:0px; 
+padding-bottom: 18px;
+}
+
+#otvoriclanak {
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+.levidiv {
+	position: relative;
+	width: 50%;
+	height: auto;
+	margin-left: 22px;
+	margin-right: 0px;
+
+	
+}
+
+.vest2{
+position: relative;
+display: inline-block;
+float: left;
+}
+
+.vest2img {
+	float: left;
+    
+}
+#vest22 {
+	position: relative;
+    float: left;
+    margin-left: 21px;
+    margin-top: -4px;
+    font: 14px/19px Georgia, Times, serif;
+    color: #3e3e3e;;
+}
+#vest22:hover {
+	color: black;
+}
+.vest22 h3:hover{
+	color:#0087eb;
+}
+.vest22 h3{
+	color: #3e3e3e;
+
+}
+
+
+.desnidiv {
+	position: relative;
+	width: 50%;
+	height: auto;
+	margin-right: 22px;
+	margin-left: 600px;
+	margin-top: -246px;
+}
+
+.vest3 {
+	position: relative;
+    display: inline-block;
+    margin-left: -20%;
+    float: left;
+}
+.vest3img{
+	float: left;
+}
+
+#vest32 {
+	position: relative;
+    float: left;
+    margin-left: 21px;
+    margin-top: -4px;
+    font: 14px/19px Georgia, Times, serif;
+    color: #3e3e3e;;
+}
+
+#vest32:hover {
+	color: black;
+}
+.vest32 h3:hover{
+	color:#0087eb;
+}
+.vest32 h3{
+	color: #3e3e3e;
+
+}
+
+
+.footer1 {
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  left: 0;
+  padding: 1rem;
+  background-color: #0098ff;
+  text-align: center;
+  margin:0 20px;
+
+}
+
+}
+
+.footer1{
+	padding: 15px 0 10px 20px;
+}
